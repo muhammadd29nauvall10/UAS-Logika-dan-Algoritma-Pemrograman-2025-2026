@@ -20,9 +20,9 @@ Program ini disusun oleh:
    - **NIM**: 1125170008
    - **Peran**: Logika Program, Struktur Data & Presentasi
 
-2. **Nama Mahasiswa 2**
-   - **NIM**: [Masukkan NIM]
-   - **Peran**: FLowchart & Pengujian Kode
+2. **Lintang Joyo Anugrah**
+   - **NIM**: 1125170141
+   - **Peran**: Flowchart & Pengujian Kode
 
 **Mata Kuliah**: Logika dan Algoritma Pemrograman
 **Dosen Pengampu**: Bapak Achmad Sidik, M.Kom
