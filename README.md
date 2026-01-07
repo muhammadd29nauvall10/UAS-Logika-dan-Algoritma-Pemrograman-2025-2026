@@ -12,14 +12,18 @@ Program ini memiliki 5 fitur inti untuk manajemen keuangan:
 4. **Cek Status Keuangan**: Menghitung persentase pemakaian anggaran dan status keamanan finansial.
 5. **Evaluasi & Saran**: Memberikan feedback otomatis berdasarkan perilaku belanja pengguna.
 
-## Persyaratan Sistem
+---
+### Identitas Kelompok
+Program ini disusun oleh:
 
-- Python 3.x sudah terinstall di komputer Anda.
-- Tidak memerlukan library eksternal (menggunakan standard library Python).
+1. **Muhammad Nauval**
+   - **NIM**: 1125170008
+   - **Peran**: Logika Program, Struktur Data & Presentasi
 
-## Cara Menjalankan Program
+2. **Nama Mahasiswa 2**
+   - **NIM**: [Masukkan NIM]
+   - **Peran**: FLowchart & Pengujian Kode
 
-1. Clone repositori ini ke komputer lokal:
-   ```bash
-   git clone [https://github.com/muhammadd29nauvall10/UAS-Logika-dan-Algoritma-Pemrograman-2025-2026.git](https://github.com/muhammadd29nauvall10/UAS-Logika-dan-Algoritma-Pemrograman-2025-2026.git)
-   ```
+**Mata Kuliah**: Logika dan Algoritma Pemrograman
+**Dosen Pengampu**: Bapak Achmad Sidik, M.Kom
+**Tahun Akademik**: 2025/2026```
