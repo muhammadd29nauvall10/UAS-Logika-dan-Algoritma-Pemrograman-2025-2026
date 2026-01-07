@@ -1,8 +1,8 @@
-# Personal Monthly Spending Awareness System 💰
+# Personal Monthly Spending Awareness System 
 
 Sistem pemantauan pengeluaran bulanan pribadi berbasis Python. Program ini dirancang untuk membantu pengguna mencatat, memantau, dan mengevaluasi pengeluaran mereka agar tetap sesuai dengan anggaran yang telah ditentukan.
 
-## 📌 Fitur Utama
+## Fitur Utama
 
 Program ini memiliki 5 fitur inti untuk manajemen keuangan:
 
@@ -12,12 +12,12 @@ Program ini memiliki 5 fitur inti untuk manajemen keuangan:
 4. **Cek Status Keuangan**: Menghitung persentase pemakaian anggaran dan status keamanan finansial.
 5. **Evaluasi & Saran**: Memberikan feedback otomatis berdasarkan perilaku belanja pengguna.
 
-## 🛠️ Persyaratan Sistem
+## Persyaratan Sistem
 
 - Python 3.x sudah terinstall di komputer Anda.
 - Tidak memerlukan library eksternal (menggunakan standard library Python).
 
-## 🚀 Cara Menjalankan Program
+## Cara Menjalankan Program
 
 1. Clone repositori ini ke komputer lokal:
    ```bash
